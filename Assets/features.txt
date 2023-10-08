@@ -1,0 +1,4 @@
+﻿list of features in project:
+
+terrain with multiple textures + normal maps
+URP models with 2k and 4k textures
