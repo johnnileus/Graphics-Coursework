@@ -13,3 +13,19 @@ Volcano or geyser eruption
 Lens-flare.
 Vegetation which grows as the scene runs (ie it evolves over time programmatically).
 Any other advanced graphical effects.
+
+
+
+
+crystals
+dust in air
+clouds
+flying spaceship
+day and night cycle
+distant mountains
+lighthouse on rock island
+weather
+lens flare
+asteroid belt?
+waterfall
+foamy edge for water shader
