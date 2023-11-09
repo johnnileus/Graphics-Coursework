@@ -21,11 +21,12 @@ crystals
 dust in air
 clouds
 flying spaceship
-day and night cycle
-distant mountains
-lighthouse on rock island
 weather
 lens flare
 asteroid belt?
 waterfall
 foamy edge for water shader
+
+
+fix bug for skybox reflections not updating in day/night cycle
+iterate on fog colour
