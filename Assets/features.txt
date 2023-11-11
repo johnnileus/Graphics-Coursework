@@ -1,8 +1,0 @@
-﻿list of features in project:
-
-terrain with multiple textures + normal maps
-URP models with 2k and 4k textures
-converted models into prefabs for tendrils
-two levels of detail for water
-anti aliasing
-post processing
