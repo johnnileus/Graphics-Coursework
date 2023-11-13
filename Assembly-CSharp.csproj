@@ -46,7 +46,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ExternalScripts\SC_FPSCounter.cs" />
-     <Compile Include="Assets\Assets\External Assets\IgniteCoders Water Shader\Simple Water Shader\ReadmeEditor.cs" />
      <Compile Include="Assets\Scripts\Camera Controller.cs" />
      <Compile Include="Assets\Scripts\DayNightController.cs" />
      <Compile Include="Assets\Scripts\WeatherManager.cs" />

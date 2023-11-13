@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcdb2221-b39d-4794-8cdb-73f7452e9906" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Assets/IgniteCoders Water Shader/Simple Water Shader/ReadmeEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Assets/IgniteCoders Water Shader/Simple Water Shader/ReadmeEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Snowfall Shader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Snowfall Shader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Snowfall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Snowfall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Camera Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Camera Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DayNightController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DayNightController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WeatherManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WeatherManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Documents/GitHub/Graphics-Coursework/Assets/Scripts/Camera Controller.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2Y2TqpOo17TppRc11XVFZ6GnTLM" />
@@ -86,7 +100,8 @@
       <updated>1699722872043</updated>
       <workItem from="1699722875224" duration="3854000" />
       <workItem from="1699808193585" duration="922000" />
-      <workItem from="1699877228145" duration="918000" />
+      <workItem from="1699877228145" duration="14515000" />
+      <workItem from="1699897297976" duration="6135000" />
     </task>
     <task id="LOCAL-00001" summary="refreshed project with new urp and added lens flare">
       <created>1699741139793</created>
@@ -95,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699741139793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added weather, created custom snowfall shader, created weather manager">
+      <created>1699896680717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699896680717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added weather, created custom snowfall shader, created weather manager">
+      <created>1699896716086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699896716086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +136,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="refreshed project with new urp and added lens flare" />
-    <option name="LAST_COMMIT_MESSAGE" value="refreshed project with new urp and added lens flare" />
+    <MESSAGE value="versioning files" />
+    <MESSAGE value="added weather, created custom snowfall shader, created weather manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="added weather, created custom snowfall shader, created weather manager" />
   </component>
 </project>

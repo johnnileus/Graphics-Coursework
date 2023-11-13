@@ -31,6 +31,7 @@ public class WeatherManager : MonoBehaviour{
             print("normal + day/night");
             
             RenderSettings.skybox = skyboxDefault;
+            RenderSettings.fogDensity = 0.0004f;
             SunDirLight.SetActive(true);
             
             //disable weather
@@ -42,6 +43,7 @@ public class WeatherManager : MonoBehaviour{
 
             RenderSettings.skybox = skyboxOvercast;
             RenderSettings.fogColor = snowFogCol;
+            RenderSettings.fogDensity = 0.005f;
             SunDirLight.SetActive(false);
             
             SnowGO.SetActive(true);
@@ -53,6 +55,7 @@ public class WeatherManager : MonoBehaviour{
             
             RenderSettings.skybox = skyboxOvercast;
             RenderSettings.fogColor = rainFogCol;
+            RenderSettings.fogDensity = 0.005f;
             SunDirLight.SetActive(false);
             
             SnowGO.SetActive(false);
