@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-// base script from https://www.youtube.com/watch?v=rxa4N4z65pg
+// base camera movement script from https://www.youtube.com/watch?v=rxa4N4z65pg
 public class CameraController : MonoBehaviour
 {
     public float sensitivity;
@@ -12,7 +12,12 @@ public class CameraController : MonoBehaviour
     public float normalSpeed;
     public float sprintSpeed;
     float currentSpeed;
-    
+
+    private void Start(){
+        Camera cam = GetComponent<Camera>();
+        cam.depthTextureMode = cam.depthTextureMode | DepthTextureMode.Depth;
+    }
+
 
     void Update()
     {

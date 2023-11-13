@@ -1,0 +1,5 @@
+﻿weather
+- rain snow and clear
+- weather follows camera
+- transparent near camera
+- transparent near floor
