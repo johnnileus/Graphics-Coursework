@@ -6,7 +6,7 @@ using UnityEngine.Rendering;
 using UnityEngine.Serialization;
 
 public class DayNightController : MonoBehaviour{
-    [SerializeField] private float currentVal = 0; //time of day (0-1)
+    [SerializeField] private float currentVal = 0.95f; //time of day (0-1)
     [SerializeField] private bool cycleTime = true;
     
     public Gradient fogColour; //fog colour over time
@@ -40,7 +40,7 @@ public class DayNightController : MonoBehaviour{
         RenderSettings.fogColor = fogColour.Evaluate(currentVal);
         //change skybox strength
         RenderSettings.ambientIntensity = dirLightStrength.Evaluate(currentVal);
-        //change sunflare strength
+        //change sunflare strength (issue of sunflare appearing off screen at night)
         sunFlare.intensity = dirLightStrength.Evaluate(currentVal);
     }  
 }
