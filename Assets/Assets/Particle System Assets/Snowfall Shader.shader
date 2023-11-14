@@ -61,15 +61,15 @@ Shader "Unlit/Snowfall Shader"
             
             fixed4 frag (v2f i) : SV_Target
             {
+                //return float4(1,0,0,1);
+                float depthDist = LinearEyeDepth( tex2D(_CameraDepthTexture, i.screenPos.xy / i.screenPos.w));
+                float2 screenSpaceUV = i.screenPos.xy / i.screenPos.w;
+                float depth = LinearEyeDepth( SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, screenSpaceUV));
                 
-                // float depthDist = LinearEyeDepth( tex2D(_CameraDepthTexture, i.screenPos.xy / i.screenPos.w));
-                // float2 screenSpaceUV = i.screenPos.xy / i.screenPos.w;
-                // float depth = LinearEyeDepth( SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, screenSpaceUV));
-
                 //distance to fragment
                 float dist = distance(i.worldPos, _WorldSpaceCameraPos);
                 
-                // return float4(1,1,1,1-saturate(depth - dist));
+                //return float4(1,1,1,1-saturate(depth - dist));
                 
                 fixed4 col = tex2D(_MainTex, i.uv);
                 col = col * _COLOUR;

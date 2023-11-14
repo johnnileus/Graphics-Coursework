@@ -15,6 +15,8 @@ public class WeatherManager : MonoBehaviour{
     [SerializeField] private GameObject SnowGO;
     [SerializeField] private GameObject RainGO;
 
+    [SerializeField] private float fogDensity;
+
     private ParticleSystem SnowPS;
     private ParticleSystem RainPS;
     
@@ -55,7 +57,7 @@ public class WeatherManager : MonoBehaviour{
             
             RenderSettings.skybox = skyboxOvercast;
             RenderSettings.fogColor = rainFogCol;
-            RenderSettings.fogDensity = 0.005f;
+            RenderSettings.fogDensity = fogDensity;
             SunDirLight.SetActive(false);
             
             SnowGO.SetActive(false);
