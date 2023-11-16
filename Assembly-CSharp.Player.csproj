@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ExternalScripts\SC_FPSCounter.cs" />
+     <Compile Include="Assets\Plane.cs" />
      <Compile Include="Assets\Scripts\Camera Controller.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />

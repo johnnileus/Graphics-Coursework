@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Burst.Tests.UnitTests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI.EditorTests", "UnityEditor.UI.EditorTests.csproj", "{4524b543-4b0f-d56c-3117-592d3df08fdf}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{e45d4b3c-75ce-8f92-f3c1-1b5fd005ee6b}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Mathematics.Tests", "Unity.Mathematics.Tests.csproj", "{d54872c1-6960-ad3a-edf2-62ff8d38f5c1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro.Tests", "Unity.TextMeshPro.Tests.csproj", "{cd42d32a-4fc2-72be-3b95-ffb209efcb64}"
@@ -268,6 +270,8 @@ Global
 		{fd7e357e-8f17-c44e-29af-9275ebe2194e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4524b543-4b0f-d56c-3117-592d3df08fdf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4524b543-4b0f-d56c-3117-592d3df08fdf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e45d4b3c-75ce-8f92-f3c1-1b5fd005ee6b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e45d4b3c-75ce-8f92-f3c1-1b5fd005ee6b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{d54872c1-6960-ad3a-edf2-62ff8d38f5c1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{d54872c1-6960-ad3a-edf2-62ff8d38f5c1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{cd42d32a-4fc2-72be-3b95-ffb209efcb64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ExternalScripts\SC_FPSCounter.cs" />
+     <Compile Include="Assets\Plane.cs" />
      <Compile Include="Assets\Scripts\Camera Controller.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
@@ -60,6 +61,7 @@
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
      <Compile Include="Assets\Scripts\MemoryCounter.cs" />
      <Folder Include="Assets" />
+     <Folder Include="Assets\Assets\External Models\AwesomeCartoonPlanes\Models\Materials" />
      <Folder Include="Assets\Assets\External Models" />
      <None Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\package.json" />
@@ -88,12 +90,14 @@
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Textures\SMAA" />
      <Folder Include="Library\PackageCache\com.unity.ide.rider@3.0.26\Rider" />
      <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources" />
+     <Folder Include="Assets\Models" />
      <None Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Bitgem" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Textures\BlueNoise64" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.imgui@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Graphics" />
+     <Folder Include="Assets\Materials\ground_0008_1k_39nnSW" />
      <None Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater" />
      <Folder Include="Assets\Materials\Rock050_2K-JPG\Materials" />
@@ -117,6 +121,7 @@
      <None Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\package.json" />
      <Folder Include="Assets\Scripts" />
+     <Folder Include="Assets\Models\Turret\Gun_2" />
      <Folder Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0" />
      <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\package.json" />
      <Folder Include="Assets\Assets\External Models\4 Snow Materials\Materials" />
@@ -126,6 +131,7 @@
      <Folder Include="Assets\Assets\External Models\Snow Mountain\Source\tga" />
      <Folder Include="Assets\Assets\AllSkyFree\Overcast Low\Materials" />
      <Folder Include="Library\PackageCache\com.unity.modules.cloth@1.0.0" />
+     <Folder Include="Assets\Models\Turret\Materials" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\MeshTerrains\MeshTerrain_1\Materials" />
      <Folder Include="Assets\Assets\External Models\Snow_mountain\Skybox" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader" />
@@ -155,6 +161,7 @@
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\UnityTerrains\Terrain_2\Maps" />
      <None Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Textures" />
+     <Folder Include="Assets\Models\Turret\GunPlat_1" />
      <Folder Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0" />
      <None Include="Library\PackageCache\com.unity.ide.rider@3.0.26\package.json" />
      <Folder Include="Assets\Assets\kenney_particle-pack (1)" />
@@ -168,10 +175,12 @@
      <Folder Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.physics@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Scripts" />
+     <Folder Include="Assets\Assets\External Models\AwesomeCartoonPlanes\Images" />
      <Folder Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime" />
      <Folder Include="Library\PackageCache\com.unity.modules.vr@1.0.0" />
      <Folder Include="Assets\Assets\External Models\Snow_mountain\snow_mountain\Scene" />
      <Folder Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0" />
+     <Folder Include="Assets\Assets\External Models\AwesomeCartoonPlanes\Materials" />
      <Folder Include="Assets\Assets\AllSkyFree" />
      <Folder Include="Assets\Assets\External Models\Snow_mountain\snow_mountain" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\UnityTerrains" />
@@ -182,6 +191,7 @@
      <Folder Include="Library\PackageCache\com.unity.shadergraph@14.0.8" />
      <None Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\igloo" />
+     <Folder Include="Assets\Models\Turret" />
      <None Include="Library\PackageCache\com.unity.modules.vr@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Textures\BlueNoise64\L" />
      <Folder Include="Library\PackageCache\com.unity.modules.uielements@1.0.0" />
@@ -198,6 +208,7 @@
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\Textures" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Info\Icons" />
      <Folder Include="Library\PackageCache\com.unity.modules.ui@1.0.0" />
+     <Folder Include="Assets\Models\Turret\Gun_3" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Textures" />
      <Folder Include="Library\PackageCache\com.unity.mathematics@1.2.6" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\MeshTerrains\MeshTerrain_1\Textures" />
@@ -214,6 +225,7 @@
      <Folder Include="Assets\Assets" />
      <Folder Include="Assets\Assets\External Models\Snow Mountain\Source" />
      <None Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\ValidationExceptions.json" />
+     <Folder Include="Assets\Assets\External Models\AwesomeCartoonPlanes" />
      <Folder Include="Assets\TutorialInfo\Scripts" />
      <None Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0\package.json" />
      <Folder Include="Assets\TutorialInfo\Icons" />
@@ -232,6 +244,7 @@
      <Folder Include="Assets\Assets\External Models\4 Snow Materials" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
      <Folder Include="Assets\Assets\External Models\Snow Mountain\Source\fbx" />
+     <Folder Include="Assets\Materials\ground_0008_1k_39nnSW\__MACOSX" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Textures\BlueNoise16" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\ValidationConfig.json" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\MeshTerrains" />
@@ -247,7 +260,6 @@
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
      <Folder Include="Library\PackageCache\com.unity.modules.umbra@1.0.0" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater" />
-     <Folder Include="Assets\Assets\kenney_particle-pack (1)\PNG (Transparent)\Materials" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Resources" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0" />
      <Folder Include="Assets\Materials\Ground067_2K-JPG" />
@@ -275,6 +287,7 @@
      <Folder Include="Assets\Assets\External Models\Snow Mountain" />
      <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\ValidationExceptions.json" />
      <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Package Resources" />
+     <Folder Include="Assets\Assets\External Models\AwesomeCartoonPlanes\Scripts" />
      <Folder Include="Assets\Assets\External Models\Snow_mountain\snow_mountain\Textures" />
      <Folder Include="Library\PackageCache\com.unity.modules.terrain@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.animation@1.0.0\package.json" />
@@ -286,7 +299,10 @@
      <None Include="Library\PackageCache\com.unity.modules.uielements@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.burst@1.8.4\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0" />
+     <Folder Include="Assets\Models\Turret\Gun_1" />
      <Folder Include="Library\PackageCache\com.unity.ugui@1.0.0" />
+     <Folder Include="Assets\Assets\External Models\AwesomeCartoonPlanes\Models" />
+     <Folder Include="Assets\Animations" />
      <None Include="Library\PackageCache\com.unity.modules.ui@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Shaders" />
      <Folder Include="Assets\Materials\Ground068_2K-JPG" />
