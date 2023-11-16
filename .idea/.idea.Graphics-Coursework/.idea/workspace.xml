@@ -5,95 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcdb2221-b39d-4794-8cdb-73f7452e9906" name="Changes" comment="plane">
-      <change afterPath="$PROJECT_DIR$/Assets/Animations.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animations/New Animation.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animations/Plane 1.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animations/Plane 1.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animations/Plane.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animations/Plane.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane1_2048x2048.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane1_2048x2048.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane2_2048x2048.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane2_2048x2048.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane3_2048x2048.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane3_2048x2048.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane4_2048x2048.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane4_2048x2048.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane_UV_2048x2048.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane_UV_2048x2048.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Prop1.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Prop1.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Prop1Blur.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Prop1Blur.psd.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane1_2048x2048.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane1_2048x2048.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane2_2048x2048.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane2_2048x2048.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane3_2048x2048.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane3_2048x2048.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane4_2048x2048.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane4_2048x2048.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1Blur.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1Blur.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Materials/Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Materials/Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Materials/No Name.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Materials/No Name.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Plane1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Plane1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Prop1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Prop1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Prop1Blur.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Models/Prop1Blur.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Plane.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Plane.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX/._ground_0008_ao_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX/._ground_0008_color_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX/._ground_0008_height_1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX/._ground_0008_normal_directx_1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX/._ground_0008_normal_opengl_1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/__MACOSX/._ground_0008_roughness_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_ao_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_ao_1k.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_color_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_color_1k.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_height_1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_height_1k.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_normal_directx_1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_normal_directx_1k.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_normal_opengl_1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_normal_opengl_1k.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_roughness_1k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/ground_0008_1k_39nnSW/ground_0008_roughness_1k.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/NewLayer.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/NewLayer.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plane.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plane.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/campfire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/campfire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Campfire/Spark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Campfire/Spark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1Blur.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1Blur.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/greyboxing.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/greyboxing.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Weather/Snowfall Shader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Weather/Snowfall Shader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plane.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlickerLight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FlickerLight.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphics-Coursework.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Graphics-Coursework.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.Rider.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.Rider.Editor.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
