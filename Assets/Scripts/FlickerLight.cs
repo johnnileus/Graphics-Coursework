@@ -5,7 +5,7 @@ using UnityEngine;
 public class FlickerLight : MonoBehaviour{
 
     [SerializeField] private AnimationCurve intensity;
-    [SerializeField] private Light light;
+    [SerializeField] private Light campfireLight;
 
     public float flickerStrength;
     public float flickerOffset;
@@ -24,6 +24,6 @@ public class FlickerLight : MonoBehaviour{
         //perlinnoise returns value 0-1 TODO: add another layer of noise
         float val1 = Mathf.PerlinNoise(curVal*40, 1);
         float val2 =  Mathf.PerlinNoise(curVal * 160, 100) * 0.2f;
-        light.intensity = val1 + val2;
+        campfireLight.intensity = val1 + val2;
     }
 }

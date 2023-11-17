@@ -46,9 +46,110 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\mergetool.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\images.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\guihelp.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\plastic-gui.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\images.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\differences.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\commontypes.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\mergetool.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\basecommands.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\basecommands.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\semantic.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\clientcommon.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\guihelp.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\xdiff.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\configurehelper.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\configurehelper.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\basecommands.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm-help.es.txt" />
+     <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\differences.zh-Hant.txt" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Info\Scripts\Editor" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\plastic-gui.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\basecommands.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\xdiff.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\xdiff.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\clientcommon.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\basecommands.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\guihelp.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\differences.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\configurehelper.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\semantic.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\workspaceserver.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\plastic-gui.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\commontypes.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\commontypes.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\images.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\i3.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\basecommands.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\images.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\workspaceserver.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm-help.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\binmergetool.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\mergetool.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\workspaceserver.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\binmergetool.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\plastic-gui.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\differences.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\binmergetool.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\configurehelper.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm-help.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\semantic.ko.txt" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\workspaceserver.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm-help.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\clientcommon.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\xdiff.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\i3.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\guihelp.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\FileSystemWatcherLicense.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm-help.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm-help.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\clientcommon.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\binmergetool.zh-Hans.txt" />
      <Folder Include="Assets\TutorialInfo\Scripts\Editor" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\i3.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\mergetool.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\commontypes.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\differences.ko.txt" />
+     <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\plastic-gui.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\images.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\binmergetool.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\binmergetool.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\images.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\xdiff.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\configurehelper.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\mergetool.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\clientcommon.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\semantic.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\commontypes.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\commontypes.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\configurehelper.ko.txt" />
+     <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Editor" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\guihelp.es.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\differences.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\workspaceserver.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\mergetool.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\clientcommon.ko.txt" />
+     <Folder Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Editor" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\i3.ja.txt" />
+     <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\plastic-gui.ja.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\i3.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\workspaceserver.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\cm.zh-Hant.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\xdiff.en.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\semantic.zh-Hans.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\i3.ko.txt" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Localization\guihelp.ko.txt" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -308,31 +409,31 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.YamlDotNet">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="log4netPlastic">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.IonicZip">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.TextureAssets">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
      </Reference>
      <Reference Include="unityplastic">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>D:\Documents\GitHub\Graphics-Coursework\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -709,116 +810,151 @@
      <Reference Include="System.Xml.XPath.XDocument">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEditor.TestRunner">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.TestRunner">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Burst.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Burst">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="PPv2URPConverters">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Mathematics">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Searcher.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-     <HintPath>C:\Users\Goines\Documents\GitHub\Graphics-Coursework\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{9695bee7-ffae-4072-8073-85cc23538320}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.TestRunner.csproj">
+      <Project>{ab06c112-ab35-c54a-507f-70d3d2857568}</Project>
+      <Name>UnityEditor.TestRunner</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.TestRunner.csproj">
+      <Project>{282f6c99-31d1-1494-b5f7-15e041518c01}</Project>
+      <Name>UnityEngine.TestRunner</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
+      <Project>{c6d12e31-4bda-642b-894c-d1ad25519bc1}</Project>
+      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
+      <Project>{b7a7cb3f-bacc-3101-a430-d2ef5c48dc65}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
+      <Project>{532da63d-9767-0601-89b7-0902207a3483}</Project>
+      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{a7bb9c57-0ece-b832-4a5e-010781a544ee}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{eaf3c46a-478e-eaf3-9fc1-a49cb8d1550a}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{47bd0e3f-d7de-84d8-73e4-49e800bf253e}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.Editor.csproj">
+      <Project>{6bcb98ab-9003-745c-b18a-1b6a649eae53}</Project>
+      <Name>Unity.Timeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
+      <Project>{76327cc7-48d4-90d5-c00b-1be63a4bd9ee}</Project>
+      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
+      <Project>{5b8f1f96-503c-b786-5344-b011b28effbe}</Project>
+      <Name>Unity.ShaderGraph.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
+      <Project>{743b65ab-6af1-89e4-5d68-c4fbde5ae31b}</Project>
+      <Name>Unity.VisualStudio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{0fb2f2e8-8e28-a98e-12c2-ab65ae8216af}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
+      <Project>{66e9dd1c-89c1-1135-8dd3-cc86f42b10fc}</Project>
+      <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{f5e9e140-276a-82cc-548f-955c8bf89547}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
+      <Project>{9fc695a0-aa52-d75a-6121-09a8f5270518}</Project>
+      <Name>Unity.VisualScripting.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rider.Editor.csproj">
+      <Project>{941192c1-a491-0e14-51c1-e5b90dc61b05}</Project>
+      <Name>Unity.Rider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
+      <Project>{044024ef-44af-b88f-0161-560593e4614e}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
+      <Project>{7e8e0257-8a33-45e5-d3fc-0958e7d76d52}</Project>
+      <Name>Unity.VisualScripting.Flow</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
+      <Project>{ea3e7305-cfdf-4b97-a49f-5316e9aa0d72}</Project>
+      <Name>Unity.VisualScripting.Flow.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{ce5903d1-1f37-7164-b742-7a16f9e4072c}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
+      <Project>{d58eba6e-3674-358e-aa9c-34906b46c81c}</Project>
+      <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.csproj">
+      <Project>{570d0ef4-66d6-fda2-6906-e58247b2f446}</Project>
+      <Name>Unity.Timeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
+      <Project>{1c520611-01d9-8c26-3be7-87a090198d47}</Project>
+      <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
+      <Project>{04747f1e-32c6-e556-8a7d-67b3c8c4978d}</Project>
+      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
+      <Project>{354cd3eb-8aed-6e05-2c13-ad5a4712d9d7}</Project>
+      <Name>Unity.VisualScripting.State.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="PPv2URPConverters.csproj">
+      <Project>{3f9b93ae-282d-b4e1-9cc9-05cc1cd7c1ba}</Project>
+      <Name>PPv2URPConverters</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{e8d34c0c-5d30-ef67-2a46-564cf8925cb1}</Project>
+      <Name>Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{ed305275-079a-9cb5-a333-c096286ce3bb}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
+      <Project>{2ba66cf1-869c-db43-2659-d1442955e7d1}</Project>
+      <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{7c221f4b-107c-b286-b85c-7753d22217c7}</Project>
+      <Name>Unity.Searcher.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
+      <Project>{1dc134ff-3eb3-4518-7b6a-2ad988b80570}</Project>
+      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.csproj">
+      <Project>{5e5914a0-8677-8b88-a3ea-7d3dd7ca7360}</Project>
+      <Name>Unity.VisualScripting.State</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VSCode.Editor.csproj">
+      <Project>{9c1a8b0e-a21b-a64d-c5da-6d2523d765d1}</Project>
+      <Name>Unity.VSCode.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
+      <Project>{78b8fb2d-723c-1d52-b43e-a2962abfcc55}</Project>
+      <Name>Unity.RenderPipelines.Universal.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

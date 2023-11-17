@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcdb2221-b39d-4794-8cdb-73f7452e9906" name="Changes" comment="plane">
+    <list default="true" id="dcdb2221-b39d-4794-8cdb-73f7452e9906" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1Blur.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Prop1Blur.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/example-water-03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/greyboxing.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Bitgem/StylisedWater/URP/Materials/greyboxing.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Weather/Snowfall Shader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Particle System Assets/Weather/Snowfall Shader.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plane.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Snow Mountain/Materials/mountain_Snow_000.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Snow Mountain/Materials/mountain_Snow_000.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/campfire/Unity/Campfire.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/water.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlickerLight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FlickerLight.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Plane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Plane.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphics-Coursework.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Graphics-Coursework.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +113,8 @@
       <workItem from="1699960736222" duration="1621000" />
       <workItem from="1700045773548" duration="3507000" />
       <workItem from="1700130808211" duration="627000" />
+      <workItem from="1700159926463" duration="3249000" />
+      <workItem from="1700235307636" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="refreshed project with new urp and added lens flare">
       <created>1699741139793</created>
