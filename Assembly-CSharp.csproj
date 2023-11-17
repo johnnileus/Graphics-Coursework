@@ -49,7 +49,6 @@
      <Compile Include="Assets\Scripts\Camera Controller.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
-     <Compile Include="Assets\Scripts\Plane.cs" />
      <Compile Include="Assets\Scripts\DayNightController.cs" />
      <Compile Include="Assets\Scripts\WeatherManager.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBox.cs" />
@@ -58,6 +57,7 @@
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
      <Compile Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Resources\WaterReflection.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
+     <Compile Include="Assets\Scripts\PlaneAnim.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
      <Compile Include="Assets\Scripts\MemoryCounter.cs" />
      <Folder Include="Assets" />
