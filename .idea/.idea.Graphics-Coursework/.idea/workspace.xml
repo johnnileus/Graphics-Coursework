@@ -6,18 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="dcdb2221-b39d-4794-8cdb-73f7452e9906" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Graphics-Coursework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Snow Mountain/Materials/mountain_Snow_000.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Snow Mountain/Materials/mountain_Snow_000.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/campfire/Unity/Campfire.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/water.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/New Animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/New Animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Plane 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Plane 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Plane 2.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Plane 2.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Plane.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Plane.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane_UV_2048x2048.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Images/Plane_UV_2048x2048.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane1_2048x2048.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/AwesomeCartoonPlanes/Materials/Plane1_2048x2048.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2 with crash.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/External Models/Winter Zone Mini 1.0/UnityTerrains/Terrain_2/terrain_2 with crash.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Laser.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Laser.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlickerLight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FlickerLight.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Plane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Plane.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphics-Coursework.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Graphics-Coursework.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlaneAnim.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlaneAnim.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
@@ -114,7 +120,8 @@
       <workItem from="1700045773548" duration="3507000" />
       <workItem from="1700130808211" duration="627000" />
       <workItem from="1700159926463" duration="3249000" />
-      <workItem from="1700235307636" duration="2619000" />
+      <workItem from="1700235307636" duration="9935000" />
+      <workItem from="1700302402992" duration="12672000" />
     </task>
     <task id="LOCAL-00001" summary="refreshed project with new urp and added lens flare">
       <created>1699741139793</created>
@@ -137,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699896716086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created terrain crater, and fabulous plane animation">
+      <created>1700240558983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700240558983</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added laser, gun points at plane. changed turret model">
+      <created>1700263450598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700263450598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +174,8 @@
     <MESSAGE value="added weather, created custom snowfall shader, created weather manager" />
     <MESSAGE value="created campfire particle system, added igloo, other stuff" />
     <MESSAGE value="plane" />
-    <option name="LAST_COMMIT_MESSAGE" value="plane" />
+    <MESSAGE value="created terrain crater, and fabulous plane animation" />
+    <MESSAGE value="added laser, gun points at plane. changed turret model" />
+    <option name="LAST_COMMIT_MESSAGE" value="added laser, gun points at plane. changed turret model" />
   </component>
 </project>

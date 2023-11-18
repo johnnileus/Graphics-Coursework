@@ -18,6 +18,9 @@ public class PlaneAnim : MonoBehaviour{
     [SerializeField] private GameObject turretShootPoint;
     [Space(10)]
     [SerializeField] private GameObject laserPrefab;
+    [SerializeField] private GameObject laserVFX;
+    [SerializeField] private GameObject explosionVFX;
+    [SerializeField] private GameObject smokeTrailVFX;
     private GameObject laserGO;
     [Space(10)]
     [SerializeField] private float propellerSpinSpeed;
@@ -36,6 +39,7 @@ public class PlaneAnim : MonoBehaviour{
     private int currentSection;
 
     private bool crashed;
+    private bool laserShot;
     
     private float progress = 0;
     [SerializeField] private float animSpeed;
@@ -46,6 +50,7 @@ public class PlaneAnim : MonoBehaviour{
         numOfPoints = controlPoints.Length;
         sectionSize = 1f / (numOfPoints - 1f);
         laserGO = Instantiate(laserPrefab, turretShootPoint.transform.position, Quaternion.identity);
+        laserGO.SetActive(false);
 
     }
 
@@ -60,6 +65,10 @@ public class PlaneAnim : MonoBehaviour{
             turretYBone.transform.eulerAngles.y, turretYBone.transform.eulerAngles.z);
     }
 
+    void ActivateLaser(){
+        laserGO.SetActive(true);
+    }
+    
     // Update is called once per frame
     void Update(){
 
@@ -86,10 +95,24 @@ public class PlaneAnim : MonoBehaviour{
                 turretLookAtPlane();
 
                 if (currentSection == transitionPoint - 1) {
+                    if (!laserShot) {
+                        Invoke(nameof(ActivateLaser), 4);
+                        laserShot = true;
+                    }
+                    laserVFX.SetActive(true);
                     print(sectionProgress);
+                    
+                    float dist = Vector3.Distance(plane.transform.position, turretShootPoint.transform.position);
+                    laserGO.transform.localScale = new Vector3(laserGO.transform.localScale.x, laserGO.transform.localScale.y, dist);
+                    laserGO.transform.LookAt(plane.transform.position);
+                    laserGO.transform.position = turretShootPoint.transform.position;
                 }
             }
             else {
+                laserGO.SetActive(false);
+                laserVFX.SetActive(false);
+                explosionVFX.SetActive(true);
+                smokeTrailVFX.SetActive(true);
                 float zRot = (Time.time * fallingRotationSpeed) % 360;
                 eulerAngles = new Vector3(eulerAngles.x, eulerAngles.y, zRot*40);
                 plane.transform.eulerAngles = eulerAngles;
@@ -105,6 +128,7 @@ public class PlaneAnim : MonoBehaviour{
             plane.transform.position = crashCP.transform.position;
             plane.transform.rotation = crashCP.transform.rotation;
             originalTerrain.SetActive(false);
+            craterVFX.SetActive(true);
 
             crashed = true;
         }
