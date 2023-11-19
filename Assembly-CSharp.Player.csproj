@@ -45,8 +45,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ExternalScripts\SC_FPSCounter.cs" />
      <Compile Include="Assets\Scripts\Camera Controller.cs" />
+     <Compile Include="Assets\Scripts\SC_FPSCounter.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
      <Compile Include="Assets\Scripts\DayNightController.cs" />
@@ -55,6 +55,7 @@
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
+     <Compile Include="Assets\Scripts\Vignette\VignetteEffect.cs" />
      <Compile Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Resources\WaterReflection.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
      <Compile Include="Assets\Scripts\PlaneAnim.cs" />

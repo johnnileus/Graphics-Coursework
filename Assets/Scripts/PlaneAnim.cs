@@ -100,7 +100,6 @@ public class PlaneAnim : MonoBehaviour{
                         laserShot = true;
                     }
                     laserVFX.SetActive(true);
-                    print(sectionProgress);
                     
                     float dist = Vector3.Distance(plane.transform.position, turretShootPoint.transform.position);
                     laserGO.transform.localScale = new Vector3(laserGO.transform.localScale.x, laserGO.transform.localScale.y, dist);

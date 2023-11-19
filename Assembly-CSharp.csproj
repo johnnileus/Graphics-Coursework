@@ -45,8 +45,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ExternalScripts\SC_FPSCounter.cs" />
      <Compile Include="Assets\Scripts\Camera Controller.cs" />
+     <Compile Include="Assets\Scripts\SC_FPSCounter.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\Scripts\FlickerLight.cs" />
      <Compile Include="Assets\Scripts\DayNightController.cs" />
@@ -55,6 +55,7 @@
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
+     <Compile Include="Assets\Scripts\Vignette\VignetteEffect.cs" />
      <Compile Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Resources\WaterReflection.cs" />
      <Compile Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
      <Compile Include="Assets\Scripts\PlaneAnim.cs" />
@@ -72,9 +73,11 @@
      <Folder Include="Library\PackageCache\com.unity.searcher@4.9.2" />
      <None Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Tests" />
+     <None Include="Assets\Scripts\Vignette\VignetteShader.shader" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0" />
      <None Include="Library\PackageCache\com.unity.modules.cloth@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\UnityTerrains\Terrain_1" />
+     <Folder Include="Assets\Assets\External Models\15-santa-sleigh\tex" />
      <Folder Include="Library\PackageCache\com.unity.modules.imgui@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts" />
@@ -119,7 +122,9 @@
      <None Include="Assets\features.txt" />
      <None Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\package.json" />
+     <Folder Include="Assets\Assets\External Models\Ergin3d santa\Santa Claus" />
      <Folder Include="Assets\Scripts" />
+     <Folder Include="Assets\Assets\External Models\Ergin3d santa\Santa Claus\Materials" />
      <Folder Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0" />
      <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\package.json" />
      <Folder Include="Assets\Assets\External Models\4 Snow Materials\Materials" />
@@ -143,6 +148,7 @@
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Prefabs" />
      <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.18\package.json" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\UnityTerrains\Terrain_1\Maps" />
+     <Folder Include="Assets\Assets\External Models\Ergin3d santa\Santa Claus\Prefab" />
      <None Include="Assets\Assets\Particle System Assets\Weather\Snowfall Shader.shader" />
      <None Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.8\ValidationConfig.json" />
      <None Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.8\package.json" />
@@ -150,11 +156,13 @@
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\Materials" />
      <Folder Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.imageconversion@1.0.0\package.json" />
+     <Folder Include="Assets\Assets\External Models\WoodLog" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\ValidationExceptions.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0" />
      <Folder Include="Assets\Assets\External Models\Snow_mountain\snow_mountain\Prefabs" />
      <None Include="Library\PackageCache\com.unity.shadergraph@14.0.8\package.json" />
+     <Folder Include="Assets\Assets\External Models\WoodLog\Materials" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\UnityTerrains\Terrain_2\Maps" />
      <None Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Textures" />
@@ -183,6 +191,7 @@
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8" />
      <None Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\4 Snow Materials\Maps" />
+     <Folder Include="Assets\Assets\External Models\15-santa-sleigh" />
      <Folder Include="Library\PackageCache\com.unity.modules.wind@1.0.0" />
      <None Include="Assets\Materials\laser mats\Laser.shader" />
      <Folder Include="Library\PackageCache\com.unity.shadergraph@14.0.8" />
@@ -228,13 +237,14 @@
      <Folder Include="Assets\TutorialInfo\Scripts" />
      <None Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0\package.json" />
      <Folder Include="Assets\TutorialInfo\Icons" />
-     <Folder Include="Assets\Scripts\ExternalScripts" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\MeshTerrains\MeshTerrain_1" />
      <Folder Include="Assets\TutorialInfo" />
      <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6" />
      <Folder Include="Library\PackageCache\com.unity.ide.rider@3.0.26" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.8" />
+     <Folder Include="Assets\Assets\External Models\Ergin3d santa" />
+     <None Include="Assets\Assets\External Models\Ergin3d santa\Santa Claus\readme.txt" />
      <Folder Include="Assets\Materials\Rock050_2K-JPG" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.searcher@4.9.2\Tests" />
@@ -261,10 +271,12 @@
      <Folder Include="Assets\Scenes" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
      <Folder Include="Library\PackageCache\com.unity.modules.umbra@1.0.0" />
+     <Folder Include="Assets\Assets\External Models\Ergin3d santa\Santa Claus\Mesh" />
      <Folder Include="Assets\Assets\External Models\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater" />
      <Folder Include="Assets\Materials\laser mats" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Resources" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0" />
+     <Folder Include="Assets\Scripts\Vignette" />
      <Folder Include="Assets\Materials\Ground067_2K-JPG" />
      <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib" />
      <None Include="Library\PackageCache\com.unity.modules.director@1.0.0\package.json" />
@@ -273,6 +285,7 @@
      <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\ValidationConfig.json" />
      <Folder Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\Textures\BlueNoise256" />
      <Folder Include="Assets\Assets\External Models\Snow Mountain\Prefab" />
+     <Folder Include="Assets\Assets\Particle System Assets\Explosion" />
      <Folder Include="Assets\Assets\External Models\Snow Mountain\Source\fbx\Materials" />
      <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders" />
      <Folder Include="Library\PackageCache\com.unity.modules.director@1.0.0" />
@@ -281,6 +294,7 @@
      <Folder Include="Assets\Assets\Particle System Assets\Weather" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader\Simple Water Shader\Info\Scripts" />
      <Folder Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.18" />
+     <Folder Include="Assets\Assets\External Models\Ergin3d santa\Santa Claus\Textures" />
      <None Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\IgniteCoders Water Shader" />
      <Folder Include="Library\PackageCache\com.unity.modules.video@1.0.0" />
@@ -295,6 +309,7 @@
      <None Include="Library\PackageCache\com.unity.modules.animation@1.0.0\package.json" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\MeshTerrains\MeshTerrain_2" />
      <Folder Include="Assets\Assets\External Models\Winter Zone Mini 1.0\MeshTerrains\MeshTerrain_2\Materials" />
+     <None Include="Assets\todo.txt" />
      <None Include="Library\PackageCache\com.unity.burst@1.8.4\Unity.Burst.Unsafe.xml" />
      <None Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.8\ValidationConfig.json" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0\package.json" />
